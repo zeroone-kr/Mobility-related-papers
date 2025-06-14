@@ -23,6 +23,8 @@ Channels for Dynamic Firmware Analysis, S&P](https://ieeexplore.ieee.org/abstrac
 
 [SHiFT: Semi-hosted Fuzz Testing for Embedded Applications](https://www.usenix.org/conference/usenixsecurity24/presentation/mera)
 
+[Karonte: Detecting Insecure Multi-binary Interactions in Embedded Firmware](https://ieeexplore.ieee.org/abstract/document/9152796)
+
 ## Firmware related International works
 
 https://dl.acm.org/doi/abs/10.1145/3427228.3427294
