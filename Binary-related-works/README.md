@@ -11,7 +11,7 @@ more..
 [Fuzzing Binaries for Memory Safety Errors with QASan](https://ieeexplore.ieee.org/abstract/document/9230171)
 
 ## Embedded
-
+### Rehosting
 [{HALucinator}: Firmware re-hosting through abstraction layer emulation, security](https://www.usenix.org/conference/usenixsecurity20/presentation/clements)
 
 [P2IM: Scalable and Hardware-independent Firmware Testing via Automatic Peripheral Interface Modeling, security](https://www.usenix.org/conference/usenixsecurity20/presentation/feng)
@@ -25,6 +25,10 @@ Channels for Dynamic Firmware Analysis, S&P](https://ieeexplore.ieee.org/abstrac
 
 [Karonte: Detecting Insecure Multi-binary Interactions in Embedded Firmware](https://ieeexplore.ieee.org/abstract/document/9152796)
 
+
+### Car specific  
+https://raelize.com/upload/research/2018/2018_escareu_There-Will-Be-Glitches-Whitepaper.pdf
+
 ## Firmware related International works
 
 https://dl.acm.org/doi/abs/10.1145/3427228.3427294
@@ -32,3 +36,4 @@ https://dl.acm.org/doi/abs/10.1145/3427228.3427294
 ## Firmware Korea Journal (written in korean)
 
 [Detecting Vulnerabilities in Symbol-Deprived Embedded Systems with Data Flow Analysis](https://koreascience.kr/article/JAKO202513454005534.page)
+
