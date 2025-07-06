@@ -25,9 +25,12 @@ Channels for Dynamic Firmware Analysis, S&P](https://ieeexplore.ieee.org/abstrac
 
 [Karonte: Detecting Insecure Multi-binary Interactions in Embedded Firmware](https://ieeexplore.ieee.org/abstract/document/9152796)
 
+### DBI
+SoK: Using Dynamic Binary Instrumentation for Security
 
 ### Car specific  
 https://raelize.com/upload/research/2018/2018_escareu_There-Will-Be-Glitches-Whitepaper.pdf
+
 
 ## Firmware related International works
 
