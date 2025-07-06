@@ -1,18 +1,29 @@
-### Fuzzing
-AFL/AFL++
-hogfuzz
-kAFL
-syzkaller
-https://github.com/secfigo/Awesome-Fuzzing
+## Whitebox 
+
+### Symbolic execution
+..(more)..
 
 
-### Directed Greybox fuzzers
-- AFLGo
-- Beacon
-- SelectFuzz
-- ...
+### Concolic execution
+..(more)..
+
+
+
+## Greybox
+### Directed greybox fuzzers
+AFLGo  
+Beacon  
+SelectFuzz  
+DAFL  
+
 
 ### Path aware fuzzers
-- AFLrun
+AFLrun  
+
+
+
+
+## Blackbox
+many iot works.  
 
 More fuzzers will be added
