@@ -20,10 +20,3 @@ DAFL
 ### Path aware fuzzers
 AFLrun  
 
-
-
-
-## Blackbox
-many iot works.  
-
-More fuzzers will be added
