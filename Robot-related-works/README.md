@@ -4,3 +4,4 @@
 
 2024  
 [RoboFuzz: fuzzing robotic systems over robot operating system (ROS) for finding correctness bugs](https://dl.acm.org/doi/abs/10.1145/3540250.3549164) (ISSTA, 2024)
+[Multi-Dimensional and Message-Guided Fuzzing for Robotic Programs in Robot Operating System](https://dl.acm.org/doi/abs/10.1145/3620665.3640425) (ASPLOS, 2024)
