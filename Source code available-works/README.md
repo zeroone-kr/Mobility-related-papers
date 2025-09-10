@@ -8,7 +8,6 @@
 ..(more)..
 
 
-
 ## Greybox
 ### Directed greybox fuzzers
 AFLGo  
@@ -20,3 +19,7 @@ DAFL
 ### Path aware fuzzers
 AFLrun  
 
+
+### library fuzzing
+2020  
+[FuzzGen: Automatic Fuzzer Generation](https://www.usenix.org/conference/usenixsecurity20/presentation/ispoglou) (security, 2020)
