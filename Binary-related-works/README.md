@@ -25,6 +25,9 @@ Channels for Dynamic Firmware Analysis, S&P](https://ieeexplore.ieee.org/abstrac
 
 [Karonte: Detecting Insecure Multi-binary Interactions in Embedded Firmware](https://ieeexplore.ieee.org/abstract/document/9152796)
 
+[Technical Report: Protocol-Aware Firmware Rehosting for
+Effective Fuzzing of Embedded Network Stacks](https://arxiv.org/pdf/2509.13740)
+
 ### DBI
 SoK: Using Dynamic Binary Instrumentation for Security
 
