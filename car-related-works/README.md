@@ -13,3 +13,7 @@
 [Autonomous vehicles: Sophisticated attacks, safety issues, challenges, open topics, blockchain, and future directions](https://www.mdpi.com/2624-800X/3/3/25) (??, 2023)
 
 [A survey on cyber–physical systems security] ( IEEE Internet of Things Journal, 2023)
+
+
+2025  
+[Advancing Security in Software-Defined Vehicles: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2510.09675)
