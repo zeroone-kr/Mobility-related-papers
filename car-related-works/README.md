@@ -1,5 +1,7 @@
 [When Cryptography Needs a Hand: Practical Post-Quantum Authentication for V2V Communications](https://par.nsf.gov/servlets/purl/10492326)
 
+[A Practical Wireless Attack on the Connected Car and Security Protocol for In-Vehicle CAN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6894181)
+
 2018  
 [There Will Be Glitches:Extracting and Analyzing Automotive Firmware Efficiently](https://raelize.com/upload/research/2018/2018_escareu_There-Will-Be-Glitches-Whitepaper.pdf) (blackhat, 2018)
 
