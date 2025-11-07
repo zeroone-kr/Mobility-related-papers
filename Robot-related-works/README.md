@@ -13,3 +13,12 @@
 
 [Detecting Lifecycle-Related Concurrency Bugs in ROS Programs via Coverage-Guided Fuzzing] (IEEE Transactions on Information Forensics and Security, 2025)
 
+
+
+uwb 통신 in localization
+1) ghost peak: practical distance reduction attacks agains HRP uwb ranging ( usenix, 2022 ) 
+2) uwbad; (??, ??)
+
+
+combined charging system
+losing the car keys: wireless phy-layer insecurity in ev charging 
